@@ -49,24 +49,4 @@ python src/predict.py
 
 streamlit run src/app_v2.py
 
-Dashboard Features:
-✅ Set temperature, holiday, and offer status for next 7 days
-✅ Shows demand forecast for each product
-✅ Displays “OK” or “REORDER” alerts
-✅ Shows past 1-year sales trends
-✅ Compares forecast with historical average
 
-Use Case:
-This system can help supermarket owners make data-driven inventory decisions, reduce waste, and prevent product shortages.
-
-Future Improvements
-
-* Add more products
-* Include supplier lead time
-* Deep Learning (LSTM/GRU) models
-* REST API for POS systems
-* Auto email/WhatsApp alerts
-
-Created by: [Your Name]
-Project: Grocery Demand Predictor
-Year: 2025
