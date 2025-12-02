@@ -27,26 +27,26 @@ Features:
 * Forecast vs average comparison
 
 
-How to Run Locally
+# How to Run Locally
 
 1. Install Libraries
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 2. Generate data
 
-python src/generate_csv.py
+   python src/generate_csv.py
 
 3. Train model
 
-python src/train_model.py
+   python src/train_model.py
 
 4. Run prediction (optional)
 
-python src/predict.py
+   python src/predict.py
 
 5. Launch dashboard
 
-streamlit run src/app_v2.py
+   streamlit run src/app_v2.py
 
 
