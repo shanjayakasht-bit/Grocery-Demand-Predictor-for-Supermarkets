@@ -9,6 +9,7 @@ Scikit-learn
 Matplotlib
 Streamlit
 
+
 Products Included:
 
 * Rice
@@ -25,26 +26,6 @@ Features:
 * Historical trends per product
 * Forecast vs average comparison
 
-Project Structure:
-
-Grocery_Demand_Predictor/
-|
-|-- data/
-|   |-- train_model.csv
-|
-|-- model/
-|   |-- rice_model.pkl
-|   |-- milk_model.pkl
-|   |-- bread_model.pkl
-|
-|-- src/
-|   |-- generate_csv.py
-|   |-- train_model.py
-|   |-- predict.py
-|   |-- app_v2.py
-|
-|-- requirements.txt
-|-- README.md
 
 How to Run Locally
 
